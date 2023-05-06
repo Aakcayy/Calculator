@@ -1,0 +1,15 @@
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\bin\Debug\İleri seviye hesap makinesi.exe.config
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\bin\Debug\İleri seviye hesap makinesi.exe.manifest
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\bin\Debug\İleri seviye hesap makinesi.application
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\bin\Debug\İleri seviye hesap makinesi.exe
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\bin\Debug\İleri seviye hesap makinesi.pdb
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri_seviye_hesap_makinesi.Form1.resources
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri_seviye_hesap_makinesi.Properties.Resources.resources
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.csproj.GenerateResource.cache
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.exe.manifest
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.application
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.exe
+C:\Users\Akcay\Desktop\İleri seviye hesap makinesi\İleri seviye hesap makinesi\İleri seviye hesap makinesi\obj\Debug\İleri seviye hesap makinesi.pdb
